@@ -1,6 +1,8 @@
 # Krunal Kapadiya
 ### Software Engineer :computer: 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krunal3kapadiya&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+
 I have worked with,
 
 :white_check_mark: Android Developement
