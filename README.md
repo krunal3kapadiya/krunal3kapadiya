@@ -1,6 +1,8 @@
 # Hi, I am Krunal Kapadiya
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krunal3kapadiya&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+<img src="https://komarev.com/ghpvc/?username=krunal3kapadiya&label=Views&color=blue&style=plastic" alt="krunal3kapadiya" />  [![Twitter](https://img.shields.io/badge/Twitter-%40krunal3kapadiya-blue.svg)](https://twitter.com/krunal3kapadiya)
+
+
 
 - 👨‍💻 I am currently working in Android 📱 .
 - 🖥️ I previously, worked in Computer Vision, large CSV data, Amazon Web Services.
