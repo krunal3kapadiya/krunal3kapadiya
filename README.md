@@ -5,7 +5,6 @@
 - 👨‍💻 I am currently working in Android 📱 
 - 🖥️ I previously worked in Computer Vision, large CSV data and Amazon Web Services.
 - 🎧 I am listening podcast and 🎒 attending/contributing meetups to share knowledge.
-- 📚 I have many half-completed books including tech-book, auto-biography. I am finishing it at night🌃 or early in morning 🌅
 - ⚡ I am good in Android Development and in Python with CSV and image data-set.
 
 ## Languages and Tools that I worked on, 
