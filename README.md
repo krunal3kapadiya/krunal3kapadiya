@@ -16,7 +16,7 @@
 
 
 ## Add me on social profile 🔗
-<a href="https://www.facebook.com/krunal3kapadiya"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="48px"/></a>   <a href="https://twitter.com/krunal3kapadiya"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="48px"/></a>   <a href="https://instagram.com/krunal3kapadiya"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="48px"/></a>   <a href="https://www.goodreads.com/krunal3kapadiya"><img src="https://img.icons8.com/ios/50/000000/goodreads.png" width="48px"/></a>  
+<a href="https://twitter.com/krunal3kapadiya"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="48px"/></a> <a href="https://www.goodreads.com/krunal3kapadiya"><img src="https://img.icons8.com/ios/50/000000/goodreads.png" width="48px"/></a>  
 
 ### For any query, shoot email 📧  [here](mailto:krunal3kapadiya@gmail.com) :gun:
 
