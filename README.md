@@ -6,7 +6,7 @@
 - 🖥️ I previously worked in Computer Vision, large CSV data and Amazon Web Services.
 - 🎧 I am listening podcast and 🎒 attending/contributing meetups to share knowledge.
 - ⚡ I am excellent in Android Development, Python and Git also in image data-set.
-- 🖥️ Always looking for good opportunities. Find my updated resume [here](http://bit.ly/resume_krunal)
+- 🖥️ Always looking for best opportunities. Find my updated resume [here](http://bit.ly/resume_krunal)
 
 ## Languages and Tools that I worked on, 
 
