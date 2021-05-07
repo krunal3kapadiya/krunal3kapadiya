@@ -1,12 +1,9 @@
-# Hi, I am Krunal Kapadiya
+# Hi, I am Krunal Kapadiya, Android Developer
 
 <img src="https://komarev.com/ghpvc/?username=krunal3kapadiya&label=Views&color=blue&style=plastic" alt="krunal3kapadiya" />
 
 - 👨‍💻 I am currently working in Android 📱 
-- 🖥️ I previously worked in Computer Vision, large CSV data and Amazon Web Services.
-- 🎧 I am listening podcast and 🎒 attending/contributing meetups to share knowledge.
-- ⚡ I am excellent in Android Development, Python and Git also in image data-set.
-- 🖥️ Always looking for best opportunities. Find my updated resume [here](http://bit.ly/resume_krunal)
+- 🖥️ I previously worked in Computer Vision, large CSV data and Amazon Web Services
 
 ## Languages and Tools that I worked on, 
 
@@ -17,11 +14,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krunal3kapadiya&layout=compact&hide_title=1&card_width=300"/>
 
 ## Add me on work profile 🔗
-<a href="https://krunal3kapadiya.app"><img src="https://img.icons8.com/fluent/48/000000/domain.png" width="48px"/></a>  <a href="https://www.linkedin.com/in/krunal3kapadiya/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="48px"/></a>   <a href="https://www.kaggle.com/krunal3kapadiya"><img src="https://img.icons8.com/windows/48/000000/kaggle.png" width="48px"/></a>   <a href="https://www.hackerrank.com/krunal3kapadiya?hr_r=1"><img src="https://img.icons8.com/windows/48/000000/hackerrank.png" width="48px"/></a>  <a href="https://medium.com/@krunal3kapadiya"><img src="https://img.icons8.com/color/48/000000/medium-logo.png" width="48px"/></a>
-
-
-## Add me on social profile 🔗
-<a href="https://twitter.com/krunal3kapadiya"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="48px"/></a> <a href="https://www.goodreads.com/krunal3kapadiya"><img src="https://img.icons8.com/ios/50/000000/goodreads.png" width="48px"/></a>  
+<a href="https://www.linkedin.com/in/krunal3kapadiya/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="48px"/></a>   <a href="https://www.kaggle.com/krunal3kapadiya"><img src="https://img.icons8.com/windows/48/000000/kaggle.png" width="48px"/></a>     <a href="https://medium.com/@krunal3kapadiya"><img src="https://img.icons8.com/color/48/000000/medium-logo.png" width="48px"/></a>
 
 ### For any query, shoot email 📧  [here](mailto:krunal3kapadiya@gmail.com) :gun:
 
