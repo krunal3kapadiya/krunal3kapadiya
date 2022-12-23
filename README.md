@@ -4,7 +4,7 @@
 
 - 👨‍💻 I am currently working in Android 📱 
 - 🖥️ I previously worked in Computer Vision, large CSV data and Amazon Web Services
-- 
+
 
 ## OpenSource Contributions
 
