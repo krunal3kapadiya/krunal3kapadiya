@@ -6,7 +6,7 @@
 - 🖥️ I previously worked in Computer Vision, large CSV data and Amazon Web Services
 
 
-## OpenSource Contributions
+### OpenSource Contributions
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krunal3kapadiya&layout=compact&hide_title=1&card_width=300"/>
 
