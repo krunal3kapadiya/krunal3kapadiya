@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=krunal3kapadiya&label=Views&color=blue&style=plastic" alt="krunal3kapadiya" />
 
-- 👨‍💻 I am currently working in Android 📱 
+- 👨‍💻 I am currently working in React-Native 📱 
 - 🖥️ I previously worked in Computer Vision, large CSV data and Amazon Web Services
 
 
