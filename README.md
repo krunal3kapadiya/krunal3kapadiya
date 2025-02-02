@@ -13,5 +13,5 @@ Welcome to my GitHub! I'm an AI/ML enthusiast, open-source contributor, and deve
 ## 📫 Let's Connect
 - 💼 **LinkedIn**: [Your Profile](https://www.linkedin.com/in/krunal3kapadiya/)
 - 📝 **Medium**: [Your Blog](https://krunal3kapadiya.medium.com/)
-- 
+  
 🚀 Let's innovate together!
